@@ -3,4 +3,7 @@ base:
     - htop
     - user
     - iptables
-    - selinux 
+    - selinux
+    - nfs-config 
+    - nfs
+    - sshd
